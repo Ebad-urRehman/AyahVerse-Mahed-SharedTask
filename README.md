@@ -36,7 +36,7 @@ While our official submission achieved an F1 of 0.48 due to underfitting, our **
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Ebad-urRehman/AyahVerse-Mahed-SharedTask.git](https://github.com/Ebad-urRehman/AyahVerse-Mahed-SharedTask.git)
+git clone https://github.com/Ebad-urRehman/AyahVerse-Mahed-SharedTask.git
 cd AyahVerse-Mahed-SharedTask
 ```
 
@@ -81,8 +81,10 @@ If you use this code or findings in your research, please cite our paper:
 
 👥 Authors
 
-Ibad-ur-Rehman Rashid - First Author - Govt. Post Graduate College, Mansehra
+[Ibad-ur-Rehman Rashid](https://aclanthology.org/people/ibad-ur-rehman-rashid/) - First Author
 
-Muhammad Hashir Khalil - Co-author
+[Muhammad Hashir Khalil](https://aclanthology.org/people/muhammad-hashir-khalil/) - Co-author
 
 Supervisor - Professor Junaid Hussain
+
+Affiliation - [Govt. Post Graduate College, Mansehra](https://gcm.edu.pk/)
