@@ -82,5 +82,7 @@ If you use this code or findings in your research, please cite our paper:
 👥 Authors
 
 Ibad-ur-Rehman Rashid - First Author - Govt. Post Graduate College, Mansehra
+
 Muhammad Hashir Khalil - Co-author
+
 Supervisor - Professor Junaid Hussain
