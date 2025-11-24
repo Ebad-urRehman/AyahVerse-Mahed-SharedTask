@@ -38,3 +38,49 @@ While our official submission achieved an F1 of 0.48 due to underfitting, our **
 ```bash
 git clone [https://github.com/Ebad-urRehman/AyahVerse-Mahed-SharedTask.git](https://github.com/Ebad-urRehman/AyahVerse-Mahed-SharedTask.git)
 cd AyahVerse-Mahed-SharedTask
+```
+
+📜 Citation
+
+If you use this code or findings in your research, please cite our paper:
+```bash
+@inproceedings{rashid-hashir-khalil-2025-ayahverse,
+    title = "{A}yah{V}erse at {MAHED} Shared Task: Fine-Tuning {A}rabic{BERT} with Preprocessing for Hope and Hate Detection",
+    author = "Rashid, Ibad-ur-Rehman  and
+      Hashir Khalil, Muhammad",
+    editor = "Darwish, Kareem  and
+      Ali, Ahmed  and
+      Abu Farha, Ibrahim  and
+      Touileb, Samia  and
+      Zitouni, Imed  and
+      Abdelali, Ahmed  and
+      Al-Ghamdi, Sharefah  and
+      Alkhereyf, Sakhar  and
+      Zaghouani, Wajdi  and
+      Khalifa, Salam  and
+      AlKhamissi, Badr  and
+      Almatham, Rawan  and
+      Hamed, Injy  and
+      Alyafeai, Zaid  and
+      Alowisheq, Areeb  and
+      Inoue, Go  and
+      Mrini, Khalil  and
+      Alshammari, Waad",
+    booktitle = "Proceedings of The Third Arabic Natural Language Processing Conference: Shared Tasks",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.arabicnlp-sharedtasks.92/",
+    doi = "10.18653/v1/2025.arabicnlp-sharedtasks.92",
+    pages = "670--676",
+    ISBN = "979-8-89176-356-2",
+    abstract = ""
+}
+```
+
+👥 Authors
+
+Ibad-ur-Rehman Rashid - First Author - Govt. Post Graduate College, Mansehra
+Muhammad Hashir Khalil - Co-author
+Supervisor - Professor Junaid Hussain
